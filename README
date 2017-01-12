@@ -1,0 +1,10 @@
+1. ansible-galaxy install -r requirements.yml
+2. ansible-playbook docker.yml
+
+参考链接:
+
+1. https://github.com/chrismeyersfsu/role-install_mongod
+
+问题：
+
+https://github.com/chrismeyersfsu/role-install_mongod 是如何测试的？通过 [ansible-test](https://github.com/nylas/ansible-test) ?
